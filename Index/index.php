@@ -1,3 +1,3 @@
-<?php
-
-include("conexao.php");
+<html>
+    <?php include("conexao.php");; ?>
+</html>
